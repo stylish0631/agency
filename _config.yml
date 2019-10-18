@@ -1,10 +1,10 @@
 url: https://stylish0631.github.io
-baseurl: /agency/
+baseurl: /agency
 
 # Site settings
 title: Do Learn Do Run
 email: nsw@ddsw.kr
-description: "Do Learn Do Run"
+description: "두런두런 소프트웨어 협동조합"
 
 
 # # Team names, titles and social links
@@ -43,22 +43,22 @@ description: "Do Learn Do Run"
 #       url: #
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
-social:
-  - title: twitter
-    url: http://twitter.com/jekyllrb
-  - title: facebook
-    url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket 
-    url: http://bitbucket.org/jekyll
-  - title: github
-    url: http://github.com/jekyll
+# social:
+#   - title: twitter
+#     url: http://twitter.com/jekyllrb
+#   - title: facebook
+#     url:
+#   - title: stack-overflow
+#     url: http://stackoverflow.com/questions/tagged/jekyll
+#   - title: bitbucket 
+#     url: http://bitbucket.org/jekyll
+#   - title: github
+#     url: http://github.com/jekyll
 
 # Postal address (add as many lines as necessary)
-address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+# address:
+#   - line: 3481 Melrose Place
+#   - line: Beverly Hills, CA 90210
 
 # Build settings
 markdown: kramdown
