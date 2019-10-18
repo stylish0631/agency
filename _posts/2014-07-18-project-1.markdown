@@ -1,15 +1,15 @@
 ---
-title: Dreams
-subtitle: Website Design
+title: 오조봇
+subtitle: 오조봇 컬링게임
 layout: default
 modal-id: 1
-date: 2014-07-18
+date: 2019-10-25
 img: dreams.png
 thumbnail: dreams-thumbnail.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+project-date: April 2019
+client: 무안군
+category: 피지컬 컴퓨팅
+description: 오조봇 마을을 여행하고 컬링게임으로 사탕을 받자!
 
 ---
