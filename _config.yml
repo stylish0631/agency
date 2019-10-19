@@ -8,7 +8,7 @@ description: "두런두런 소프트웨어 협동조합"
 
 # Team names, titles and social links
 people:
-- name: Kay Garland
+- name: 김은미
   pic: 1
   position: Lead Designer
   social:
@@ -19,7 +19,7 @@ people:
     - title: stack-overflow
       url: #
 
-- name: Larry Parker
+- name: 나상원
   pic: 2
   position: Lead Marketer
   social:
