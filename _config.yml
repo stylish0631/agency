@@ -9,7 +9,7 @@ description: "두런두런 소프트웨어 협동조합"
 
 # # Team names, titles and social links
  people:
- - name: Kay Garland
+ - name: 김은미
    pic: 1
    position: Lead Designer
    social:
@@ -20,7 +20,7 @@ description: "두런두런 소프트웨어 협동조합"
      - title: stack-overflow
        url: #
 
- - name: Larry Parker
+ - name: 나상원
    pic: 2
    position: Lead Marketer
    social:
@@ -31,7 +31,7 @@ description: "두런두런 소프트웨어 협동조합"
      - title: linkedin
        url: #
 
- - name: Diana Petersen
+ - name: 박현아
    pic: 3
    position: Lead Developer
    social:
@@ -42,6 +42,60 @@ description: "두런두런 소프트웨어 협동조합"
      - title: google-plus
        url: #
 
+ - name: 윤선화
+   pic: 3
+   position: Lead Developer
+   social:
+     - title: twitter
+       url: #
+     - title: facebook
+       url: #
+     - title: google-plus
+       url: #
+
+ - name: 윤종석
+   pic: 3
+   position: Lead Developer
+   social:
+     - title: twitter
+       url: #
+     - title: facebook
+       url: #
+     - title: google-plus
+       url: #
+       
+ - name: 이승희
+   pic: 3
+   position: Lead Developer
+   social:
+     - title: twitter
+       url: #
+     - title: facebook
+       url: #
+     - title: google-plus
+       url: #
+
+ - name: 이안나
+   pic: 3
+   position: Lead Developer
+   social:
+     - title: twitter
+       url: #
+     - title: facebook
+       url: #
+     - title: google-plus
+       url: #
+       
+ - name: 이
+   pic: 3
+   position: Lead Developer
+   social:
+     - title: twitter
+       url: #
+     - title: facebook
+       url: #
+     - title: google-plus
+       url: #
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 # social:
 #   - title: twitter
