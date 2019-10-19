@@ -9,85 +9,43 @@ description: "두런두런 소프트웨어 협동조합"
 # Team names, titles and social links
 people:
 - name: 김은미
-  pic: 1
+  pic: 3
   position: kem@ddsw.kr
 
 - name: 나상원
   pic: 2
   position: nsw@ddsw.kr
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: linkedin
-      url: #
+
 
 - name: 박현아
   pic: 3
   position: pha@ddsw.kr
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #
+
 
 - name: 윤선화
-  pic: 2
+  pic: 3
   position: ysh@ddsw.kr
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: linkedin
-      url: #
+
 
 - name: 윤종석
-  pic: 3
+  pic: 2
   position: yjs@ddsw.kr
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #
+
      
 - name: 이승희
-  pic: 2
+  pic: 3
   position: lsh@ddsw.kr
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: linkedin
-      url: #
+
 
 - name: 이안나
   pic: 3
   position: lan@ddsw.kr
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #
+
   
 - name: 이창후
-  pic: 3
+  pic: 2
   position: lch@ddsw.kr
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #
+
       
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
