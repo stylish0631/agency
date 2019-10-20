@@ -1,15 +1,15 @@
 ---
 title: 아두이노
-subtitle: 아두이노(이탈리아어: Arduino 아르두이노)는 오픈 소스를 기반으로 한 단일 보
+subtitle: Arduino
 layout: default
 modal-id: 1
 date: 2019-10-25
 img: dreams.png
 thumbnail: dreams-thumbnail.png
 alt: image-alt
-project-date: April 2019
-client: 12세 이상
-category: 공학
-description: 아두이노의 가장 큰 장점은 마이크로컨트롤러
+project-date: April 2014
+client: Start Bootstrap
+category: Web Development
+description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
 
 ---
