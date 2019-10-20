@@ -1,6 +1,6 @@
 ---
-title: 오조봇
-subtitle: 오조봇 컬링게임
+title: 아두이노
+subtitle: 아두이노(이탈리아어: Arduino 아르두이노)는 오픈 소스를 기반으로 한 단일 보드 마이크로컨트롤러로 완성된 보드(상품)와 관련 개발 도구 및 환경을 말한다.
 layout: default
 modal-id: 1
 date: 2019-10-25
@@ -8,8 +8,8 @@ img: dreams.png
 thumbnail: dreams-thumbnail.png
 alt: image-alt
 project-date: April 2019
-client: 무안군
-category: 피지컬 컴퓨팅
-description: 오조봇 마을을 여행하고 컬링게임으로 사탕을 받자!
+client: 12세 이상
+category: 공학
+description: 아두이노의 가장 큰 장점은 마이크로컨트롤러를 쉽게 동작시킬 수 있다는 것이다. 일반적으로 AVR 프로그래밍이 AVRStudio(Atmel Studio[3]로 변경, ARM 도구 추가됨)와 WinAVR(avr-gcc)의 결합으로 컴파일하거나 IAR E.W.나 코드비전(CodeVision)등으로 개발하여, 별도의 ISP 장치를 통해 업로드를 해야하는 번거로운 과정을 거쳐야 한다. 이에 비해 아두이노는 컴파일된 펌웨어를 USB를 통해 쉽게 업로드 할 수 있다. 또한, 아두이노는 다른 모듈에 비해 비교적 저렴하고, 윈도를 비롯해 맥 OS X, 리눅스와 같은 여러 OS를 모두 지원한다. 아두이노 보드의 회로도가 CCL에 따라 공개되어 있으므로, 누구나 직접 보드를 만들고 수정할 수 있다.
 
 ---
