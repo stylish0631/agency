@@ -1,6 +1,6 @@
 ---
-title: Escape
-subtitle: Website Design
+title: 피지컬 컴퓨팅
+subtitle: Physical Computing
 layout: default
 modal-id: 2
 date: 2014-07-17
