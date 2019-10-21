@@ -1,5 +1,5 @@
 ---
-title: 아두이노
+title: IoT
 subtitle: Arduino
 layout: default
 modal-id: 1
