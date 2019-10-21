@@ -1,6 +1,6 @@
 ---
-title: Round Icons
-subtitle: Graphic Design
+title: 메이커 활동
+subtitle: Maker
 layout: default
 modal-id: 6
 date: 2014-07-15
