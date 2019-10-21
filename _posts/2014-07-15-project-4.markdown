@@ -1,6 +1,6 @@
 ---
-title: Treehouse
-subtitle: Website Design
+title: 3D Pen / 3D Printer
+subtitle: 3D
 layout: default
 modal-id: 4
 date: 2014-07-15
