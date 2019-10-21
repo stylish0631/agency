@@ -9,7 +9,7 @@ description: "두런두런 소프트웨어 협동조합"
 # Team names, titles and social links
 people:
 - name: 김은미
-  pic: 3
+  pic: 1
   position: kem@ddsw.kr
 
 - name: 나상원
@@ -18,32 +18,32 @@ people:
 
 
 - name: 박현아
-  pic: 3
+  pic: 4
   position: pha@ddsw.kr
 
 
 - name: 윤선화
-  pic: 3
+  pic: 5
   position: ysh@ddsw.kr
 
 
 - name: 윤종석
-  pic: 2
+  pic: 6
   position: yjs@ddsw.kr
 
      
 - name: 이승희
-  pic: 3
+  pic: 7
   position: lsh@ddsw.kr
 
 
 - name: 이안나
-  pic: 3
+  pic: 8
   position: lan@ddsw.kr
 
   
 - name: 이창후
-  pic: 2
+  pic: 3
   position: lch@ddsw.kr
 
       
