@@ -1,6 +1,6 @@
 ---
 title: IoT
-subtitle: Arduino
+subtitle: Device
 layout: default
 modal-id: 1
 date: 2019-10-25
